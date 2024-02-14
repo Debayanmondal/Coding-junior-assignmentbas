@@ -1,4 +1,4 @@
-# Coding-junior-assignmentbas
+# Coding-junior-assignments
 Interactive course learning page using HTML and Bootstrap.
 
 # Screenshots
